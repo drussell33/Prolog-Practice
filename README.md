@@ -1,0 +1,1 @@
+A series of problems to learn and practice using Prolog
